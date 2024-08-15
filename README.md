@@ -20,3 +20,5 @@ This project involved the following steps:
    - Generated a correlation matrix to explore relationships between features.
 7. **Data Preparation for Modeling**:
    - Split the dataset into features (`X`) and the target variable (`y`) for modeling.
+
+The dataset : https://www.kaggle.com/c/titanic/data
